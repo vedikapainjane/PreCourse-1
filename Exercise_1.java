@@ -1,8 +1,6 @@
 // Exercise_1 : Implement Stack using Array.
 // Time Complexity : O(1)
 // Space Complexity : O(n) where n is the number of items in the stack.
-// Did this code successfully run on Leetcode : 
-// Any problem you faced while coding this :
 
 
 // Your code here along with comments explaining your approach
